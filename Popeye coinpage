@@ -1,0 +1,76 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PopeyeCoin - SPNCH</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Bangers', cursive;
+      background-color: #f4f4f4;
+      color: #222;
+      text-align: center;
+    }
+    header {
+      background-color: #0a3f26;
+      color: white;
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 3rem;
+      margin: 0;
+    }
+    section {
+      padding: 2rem;
+    }
+    .logo {
+      width: 180px;
+      border-radius: 50%;
+      box-shadow: 0 0 10px rgba(0,0,0,0.4);
+    }
+    .button {
+      display: inline-block;
+      padding: 1rem 2rem;
+      background-color: #4CAF50;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 1.2rem;
+      margin-top: 1.5rem;
+    }
+    footer {
+      background: #222;
+      color: #aaa;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="/logo.png" alt="PopeyeCoin Logo" class="logo" />
+    <h1>PopeyeCoin ($SPNCH)</h1>
+    <p>The power of spinach, now in your wallet.</p>
+  </header>
+  <section>
+    <h2>Why SPNCH?</h2>
+    <p>No utility. No roadmap. Just pure meme muscle.</p>
+    <p>Powered by the legendary sailor spirit.</p>
+    <a href="https://pump.fun" class="button">Buy on Pump.fun</a>
+  </section>
+  <section>
+    <h2>Tokenomics</h2>
+    <p><strong>Chain:</strong> Solana</p>
+    <p><strong>Supply:</strong> 690,000,000</p>
+    <p><strong>Decimals:</strong> 6</p>
+    <p><strong>Ticker:</strong> SPNCH</p>
+  </section>
+  <section>
+    <h2>Follow the Hype</h2>
+    <p>Twitter, Telegram, Instagram – coming soon!</p>
+  </section>
+  <footer>
+    <p>&copy; 2025 SPNCH Coin. Powered by memes & spinach.</p>
+  </footer>
+</body>
+</html>
